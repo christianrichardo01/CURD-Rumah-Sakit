@@ -9,3 +9,6 @@ mengolah data yang dapat di lakukan adalah:
 bahasa yang saya gunakan pada code ini ada python
 os yang saya gunakan adalah windows karena saya ada ambil fitur dari os windows untuk celar screen
 dan saya juga ada menggunakan modul PrettyTable untuk mempercantik tampilan tabel yang dapat anda install dahulu bila belum punya: https://pypi.org/project/prettytable/
+Password untuk menggunakan aplikasi
+Main menu = admin123
+menu 2-4 = 123admin
